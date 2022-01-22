@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671152382608",
+    "project_id": "tamashebi-515d5",
+    "storage_bucket": "tamashebi-515d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671152382608:android:5b6caf46b9fa5276846e15",
+        "android_client_info": {
+          "package_name": "com.example.tamashebi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671152382608-nj7la0kefi6fbf4h03k9i184pa03dhp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbqMGKEFkr5qLWDDR0_Uhxq38kurOvPCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671152382608-nj7la0kefi6fbf4h03k9i184pa03dhp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
